@@ -17,7 +17,7 @@
     "express-boom": "^2.0.0",
     "fcm-notification": "^2.0.0",
     "gmail-send": "^1.2.14",
-    "googleapis": "^38.0.0",
+    "googleapis": "^39.1.0",
     "http-errors": "~1.6.2",
     "joi": "^14.3.1",
     "jsonwebtoken": "^8.5.0",
